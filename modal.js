@@ -1,1 +1,1 @@
-console.log("modal.js loaded");
+console.log("modal is good");
